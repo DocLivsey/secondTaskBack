@@ -1,0 +1,12 @@
+img{
+    border-radius: 8px;
+}
+div{
+    margin: 1%;
+    padding: 1%;
+    background-color: burlywood;
+    border-radius: 8px;
+}
+.img1{
+    width: 99%;
+}
